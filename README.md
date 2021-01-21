@@ -1,4 +1,4 @@
-<img src=nothing.png width=200>
+<img src=nothing.png width=400 height=400>
 
 # Hello there! i'm nothing!
 ### Welcome, general kenobi
