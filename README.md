@@ -1,5 +1,5 @@
 <img src=nothing.png width="200">
-![](nothing.ong | width=200)
+![](nothing.png | width=200)
 
 # Hello there! i'm nothing!
 ### Welcome, general kenobi
