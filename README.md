@@ -1,5 +1,5 @@
 <img src=nothing.png width="200">
-![](nothing.png){:height="24px" width="48px"}
+![](nothing.png)
 
 # Hello there! i'm nothing!
 ### Welcome, general kenobi
