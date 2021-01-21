@@ -8,7 +8,7 @@ Hello there, i go by the nickname of nothing, because this is such a common nick
 - 'Age' : i'm currently 21 years old atm, i don't know if i will remember to change this when my birthday occur
 - 'Occupation' : i just started working at [kerbersoweb](https://kerberosweb.com/) and i'm so happy about it
 - 'Location' : Italy
-## Personal interest
+## Personal interests
 I'm currently studying computer engineering at a local university.
 My most loved interest is cybersecurity in all of it's beauty, obvioulsy i'm not an expert and i will never pretend to be one, in this field you learn every day new things and this is excting for me
 ## What cybersecurity i do
