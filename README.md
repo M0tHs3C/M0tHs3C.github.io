@@ -1,4 +1,4 @@
-![](nothing.png)
+![](nothing.png | width=200)
 
 # Hello there! i'm nothing!
 ### Welcome, general kenobi
