@@ -6,7 +6,7 @@ Hello there, i go by the nickname of nothing, because this is such a common nick
 ## Personal info
 - 'Name': if my name is so relevant to you then you will have to look for it, i'm not hiding it but i dont want to spam my name on the web for no reason.
 - 'Age' : i'm currently 21 years old atm, i don't know if i will remember to change this when my birthday occur
-- 'Occupation' : i just started working at [kerbersoweb](https://kerberosweb.com/) and i'm so happy about it and i do not intend to live this job for a long time
+- 'Occupation' : i just started working at [kerbersoweb](https://kerberosweb.com/) and i'm so happy about it
 - 'Location' : Italy
 ## Personal interest
 I'm currently studying computer engineering at a local university.
