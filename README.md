@@ -1,4 +1,4 @@
-![](nothing.png | width=200)
+![](nothing.png){:height="24px" width="48px"}
 
 # Hello there! i'm nothing!
 ### Welcome, general kenobi
