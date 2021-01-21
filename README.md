@@ -1,4 +1,3 @@
-<img src=nothing.png width="200">
 ![](nothing.png)
 
 # Hello there! i'm nothing!
