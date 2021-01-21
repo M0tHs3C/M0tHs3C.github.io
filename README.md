@@ -1,3 +1,4 @@
+![](nothing.png)
 # Hello there! i'm nothing!
 ### Welcome, general kenobi
 Hello there, i go by the nickname of nothing, because this is such a common nick my username on github it's obviously differente but i quite like it never the less.
