@@ -1,4 +1,4 @@
-<img src=nothing.png width=200 height=200>
+![](nothing.png){:height="200px" width="200px"}
 
 # Hello there! i'm nothing!
 ### Welcome, general kenobi
