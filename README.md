@@ -1,4 +1,4 @@
-![](nothing.png){:height="200px" width="200px"}
+<img src=nothing.png width=200 height=200>
 
 # Hello there! i'm nothing!
 ### Welcome, general kenobi
@@ -28,4 +28,4 @@ I know the basic of C and assambly but they come only from exam i did in univers
 
 # social
 You can contact me on [telegram](https://t.me/nothingSRL) and i'm happy to meet new friends
-If you want to tip me or offer me a beer you can find the patreon [here](patreon.com/M0tHs3C) or otherwise ask me for a bitcoin or ethereum address
+If you want to tip me or offer me a beer you can find the patreon [here](https://patreon.com/M0tHs3C) or otherwise ask me for a bitcoin or ethereum address
