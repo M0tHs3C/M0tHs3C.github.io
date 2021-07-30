@@ -15,8 +15,8 @@ My most loved interest is cybersecurity in all of it's beauty, obvioulsy i'm not
 - i often do a little bit of research on [hackerone](https://hackerone.com/doc_nothing) but there's nothing much to see __¯\_(ツ)_/¯__
 - i like to play ctfs on [hackthebox](https://www.hackthebox.eu/home/users/profile/83434) 
 
-My preferred type of cts i do is boot2root since i like the ideology behind it to start with nothing and end with owning the machine
-I'm kinda prepared to do reverse engineering but it's not definetly my pride and obviously i like bughunting on web apps
+My preferred type of cts i do is jeopardy since i do like resolving riddles
+I'm kinda prepared to do reverse engineering but it's not definetly my pride, obviously i like bughunting on web apps
 
 ## current projects
 If you open my github profile at [this link](https://github.com/M0tHs3C) you will find several and simple tool i build
